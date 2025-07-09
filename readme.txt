@@ -1,7 +1,7 @@
 For Game Installation: 
 Open the Secure_Escape_Installer.exe and follow the installation steps required (see attached document, participant_instructions.pdf (task 2)).
 This will only work on devices using the Windows operating system.
-Note: If the installation does not work the full work game is contain within Secure_Escape_Game.zip
+Note: If the installation does not work the full working game is contained within Secure_Escape_Game.zip
 
 All code is stored in the respective objects and rooms folders.
 
